@@ -1,20 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './components/App/App'
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./components/App/App";
 
 // class App extends React.Component {
 //   state = {  }
-  
-//   render() { 
+
+//   render() {
 //     return ( <div>Hi there!</div> );
 //   }
 // }
- 
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-
+ReactDOM.render(<App />, document.getElementById("root"));
