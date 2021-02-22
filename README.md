@@ -1,6 +1,10 @@
 # App Images
 ## Default
-![default]
+![default](public/images/ReactPicsDefault.png)
+## Cars Search
+![cars](public/images/ReactPicsCars.png)
+## Switzerland Search
+![Switzerland](public/images/ReactPicsSwitzerland.png)
 ***
 # Getting Started with Create React App
 
